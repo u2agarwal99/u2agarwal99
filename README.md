@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!-- Actual text -->
-# Some Repos:
+# Some Repos I've worked on:
 
 [Question-Answering with HyperNetworks for zero-learning][4] |
 [Exploring the Effect of Disentanglement on VAE Generated Latent Spaces][3] |
