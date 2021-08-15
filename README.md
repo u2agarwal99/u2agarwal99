@@ -36,8 +36,8 @@ You can click the Preview link to take a look at your changes.
 <!-- Actual text -->
 # Some Repos I've worked on:
 
-[Question-Answering with HyperNetworks for zero-learning][4] |
-[Exploring the Effect of Disentanglement on VAE Generated Latent Spaces][3] |
+[Question-Answering with HyperNetworks for zero-learning][4] [(Report)][7] |
+[Exploring the Effect of Disentanglement on VAE Generated Latent Spaces][3] [(Report)][8]|
 [Schema Design and Effective Querying on UN Education Data][5] |
 [A Tool for Mining Company Employees][6]
 
@@ -48,8 +48,13 @@ You can click the Preview link to take a look at your changes.
 <!-- Links -->
 
 [2]: https://www.linkedin.com/in/softdev-ua/
+
 [3]: https://github.com/asleshapokhrel/412-VAE
 [4]: https://github.com/benpry/CSC413-hypervqa
 [5]: https://github.com/u2agarwal99/Querying-on-UN-Education-Data
 [6]: https://github.com/CSC207-TLI-TBTEENS/ftms-tbteens-api
+
+[7]: https://drive.google.com/file/d/1USD8-pnUoWkWvoZTU85j7rdbYZHO8bf1/view?usp=sharing
+[8]: https://drive.google.com/file/d/1xp4skdgCpb735wzScviaSrV5WW9etUYw/view?usp=sharing
+
 
