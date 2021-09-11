@@ -20,11 +20,11 @@ and here
 - 💞️ I’m looking to collaborate on any idea that improves lives :)
 - 📫 You can find me on [![LinkedIn][2.2]][2].
 
-
+![](https://img.shields.io/badge/Framework-NaturalLanguageProcessing-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-DeepLearning-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-OOPS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-MachineLearning-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-OOPS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
