@@ -41,6 +41,9 @@ You can click the Preview link to take a look at your changes.
 [Schema Design and Effective Querying on UN Education Data][5] |
 [A Tool for Mining Company Employees][6]
 
+# Badges
+<img src="/microsoft-certified-azure-data-scientist-associate-2.png?raw=true" width="100"> <img src="/ibm-watson-machine-learning-essentials.png?raw=true" width="100">
+
 <!-- Icons -->
 
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
