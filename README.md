@@ -10,13 +10,12 @@ and here
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u2agarwal99)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Utkarsh's github stats](https://github-readme-stats.vercel.app/api?username=u2agarwal99&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/u2agarwal99/github-readme-stats)
 
 -->
 
 - 👋 Hi, I’m @u2agarwal99 (Graduated from U of T with a specialist in CS in June 2021: Focuses in AI, and Computational Linguistics and NLP)
 - 👀 I’m interested in helping and growing (improving my grasp of tools I know and real world usage, learning new technologies and ideas, and becoming a better computer scientist)
-- 🌱 I’m currently learning React and Ruby on Rails while also constantly upping my backend skills on the side.
+- 🌱 I’m currently working at Equifax as a Java Backend Developer, always upping my knowledge and skills.
 - 💞️ I’m looking to collaborate on any idea that improves lives :)
 - 📫 You can find me on [![LinkedIn][2.2]][2].
 
@@ -47,6 +46,8 @@ You can click the Preview link to take a look at your changes.
 <!-- Icons -->
 
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+[![Utkarsh's github stats](https://github-readme-stats.vercel.app/api?username=u2agarwal99&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/u2agarwal99/github-readme-stats)
 
 <!-- Links -->
 
