@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!-- Actual text -->
-# Some Repos I've built:
+# Some Public Repos I've built:
 
 [Question-Answering with HyperNetworks for zero-learning][4] [(Report)][7] |
 [Exploring the Effect of Disentanglement on VAE Generated Latent Spaces][3] [(Report)][8]|
