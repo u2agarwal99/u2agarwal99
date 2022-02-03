@@ -15,7 +15,7 @@ and here
 
 - 👋 Hi, I’m @u2agarwal99 (Graduated from U of T with a specialist in CS in June 2021: Focuses in AI, and Computational Linguistics and NLP)
 - 👀 I’m interested in helping and growing (improving my grasp of tools I know and real world usage, learning new technologies and ideas, and becoming a better computer scientist)
-- 🌱 I’m currently working at Equifax as a Java Backend Developer, always upping my knowledge and skills.
+- 🌱 I’m currently working at Equifax as a Java/Python Backend Developer, always upping my knowledge and skills.
 - 💞️ I’m looking to collaborate on any idea that improves lives :)
 - 📫 You can find me on [![LinkedIn][2.2]][2].
 
